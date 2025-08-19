@@ -2,7 +2,7 @@
 Hi! I'm Sri Haneesha Davuluri
 ==============================================================================================================================================
 
-I graduated with Master’s in Computer Science degree from Georgia State University. With 4+ years of experience across **fraud & healthcare analytics, business intelligence, and machine learning**, I specialize in turning complex data into actionable insights.  
+I graduated with **Master’s in Computer Science** degree from Georgia State University. With 4+ years of experience across **fraud & healthcare analytics, business intelligence, and machine learning**, I specialize in turning complex data into actionable insights.  
 
 I have hands-on expertise in:  
 - **Fraud Analytics & Risk Modeling** – anomaly detection, customer segmentation, and predictive modeling and forecasting
@@ -13,9 +13,9 @@ I have hands-on expertise in:
 - **Data Visualization & BI** – building dashboards in Tableau and Excel for executive decision-making  
 - **Cloud & Big Data Platforms** – AWS, GCP BigQuery, Snowflake, Hadoop  
 
-I’m passionate about **solving real-world problems with data, applying statistical rigor, and building scalable ML+GenAI solutions**. Let’s connect and collaborate on impactful projects! 🚀  
+I’m passionate about **solving real-world problems with data, applying statistical rigor, building scalable ML+GenAI solutions and providing actionable, data-driven recommendations to stakeholders**. Let’s connect and collaborate on impactful projects! 🚀  
 
-### 🔧 Languages and Tools  
+### Languages and Tools  
 **Programming & Analytics**: Python, SQL, R, SAS  
 **Statistical Analysis & Testing**: A/B Testing, Hypothesis Testing, KPI Tracking, Statistical Modeling  
 **Databases**: Oracle, MS SQL Server, MySQL, MongoDB, Hive, Snowflake  
@@ -28,7 +28,6 @@ I’m passionate about **solving real-world problems with data, applying statist
 **Version Control & Workflow**: GitHub, Git, JIRA, Confluence, Agile/Scrum  
 
 ### Socials
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sri-haneesha-davuluri-082811275/)  
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/d_haneesha/)  
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:srihdavuluri@gmail.com)
