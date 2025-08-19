@@ -13,7 +13,7 @@ I have hands-on expertise in:
 - **Data Visualization & BI** – building dashboards in Tableau and Excel for executive decision-making  
 - **Cloud & Big Data Platforms** – AWS, GCP BigQuery, Snowflake, Hadoop  
 
-I’m passionate about solving real-world problems with data, applying statistical rigor, building scalable ML+GenAI solutions and providing actionable, data-driven recommendations to stakeholders. Let’s connect and collaborate on impactful projects! 
+I’m passionate about solving real-world problems with data, applying statistical rigor, building scalable ML+GenAI solutions, and providing actionable, data-driven recommendations to stakeholders. Let’s connect and collaborate on impactful projects! 
 
 ### Languages and Tools  
 **Programming & Analytics**: Python, SQL, R, SAS  
