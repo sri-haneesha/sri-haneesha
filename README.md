@@ -1,5 +1,6 @@
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Sri Haneesha Davuluri
+Hi! [](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) 
+My name is Sri Haneesha Davuluri
 ==============================================================================================================================================
 
 I graduated with **Master’s in Computer Science** degree from Georgia State University. With 4+ years of experience across **fraud & healthcare analytics, business intelligence, and machine learning**, I specialize in turning complex data into actionable insights.  
