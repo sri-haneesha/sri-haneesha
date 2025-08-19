@@ -13,7 +13,7 @@ I have hands-on expertise in:
 - **Data Visualization & BI** – building dashboards in Tableau and Excel for executive decision-making  
 - **Cloud & Big Data Platforms** – AWS, GCP BigQuery, Snowflake, Hadoop  
 
-I’m passionate about **solving real-world problems with data, applying statistical rigor, building scalable ML+GenAI solutions and providing actionable, data-driven recommendations to stakeholders**. Let’s connect and collaborate on impactful projects! 🚀  
+I’m passionate about solving real-world problems with data, applying statistical rigor, building scalable ML+GenAI solutions and providing actionable, data-driven recommendations to stakeholders. Let’s connect and collaborate on impactful projects! 
 
 ### Languages and Tools  
 **Programming & Analytics**: Python, SQL, R, SAS  
@@ -32,6 +32,6 @@ I’m passionate about **solving real-world problems with data, applying statist
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/d_haneesha/)  
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:srihdavuluri@gmail.com)
 
-<b>My GitHub Stats</b>
+### <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/sri-haneesha"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sri-haneesha&stroke=ffffff&background=27272a&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
