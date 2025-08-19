@@ -3,8 +3,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I'm Sri Haneesha Davuluri
 ==============================================================================================================================================
 
-Data Science, Analytics & BI Professional
------------------------------------------
 
 I’m a Data & AI Analyst with 4+ years of experience across fraud & healthcare analytics, business intelligence, and machine learning.
 
