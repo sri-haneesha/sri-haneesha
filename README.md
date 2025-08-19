@@ -1,11 +1,8 @@
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) 
-I'm Sri Haneesha Davuluri
+Hi! I'm Sri Haneesha Davuluri
 ==============================================================================================================================================
 
-
-
-I’m a Master’s in Computer Science (GPA: 4.0/4.0) graduate student at Georgia State University. With 4+ years of experience across **fraud analytics, business intelligence, and machine learning**, I specialize in turning complex data into actionable insights.  
+I’m a Master’s in Computer Science graduate student at Georgia State University. With 4+ years of experience across **fraud analytics, business intelligence, and machine learning**, I specialize in turning complex data into actionable insights.  
 
 I have hands-on expertise in:  
 - **Fraud Analytics & Risk Modeling** – anomaly detection, customer segmentation, and predictive modeling  
@@ -18,7 +15,7 @@ I have hands-on expertise in:
 I’m passionate about **solving real-world problems with data, applying statistical rigor, and building scalable ML solutions**. Let’s connect and collaborate on impactful projects! 🚀  
 
 
-## 🔧 Languages and Tools  
+### 🔧 Languages and Tools  
 **Programming & Analytics**: Python, SQL, R, SAS  
 **Statistical Analysis & Testing**: A/B Testing, Hypothesis Testing, KPI Tracking  
 **Machine Learning & AI**: Scikit-learn, TensorFlow, Keras, Hugging Face, Transformers  
