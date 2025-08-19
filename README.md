@@ -4,9 +4,28 @@ I'm Sri Haneesha Davuluri
 ==============================================================================================================================================
 
 
-I’m a Data & AI Analyst with 4+ years of experience across fraud & healthcare analytics, business intelligence, and machine learning.
 
-I specialize in Python, SQL, Excel, Tableau, Informatica, GenAI and cloud platforms (AWS, GCP, Snowflake, Hadoop), with a proven record of quantifying business impact, improving model precision, and building data-driven solutions.
+I’m a Master’s in Computer Science (GPA: 4.0/4.0) graduate student at Georgia State University. With 4+ years of experience across **fraud analytics, business intelligence, and machine learning**, I specialize in turning complex data into actionable insights.  
+
+I have hands-on expertise in:  
+- **Fraud Analytics & Risk Modeling** – anomaly detection, customer segmentation, and predictive modeling  
+- **Statistical Methods & Experimentation** – A/B testing, hypothesis testing, and advanced statistical analysis  
+- **Data Engineering & Pipelines** – ETL workflows, data quality validation, and process automation  
+- **Machine Learning & AI** – time series forecasting, NLP, deep learning (CNNs, RNN, LSTM, Transformers)  
+- **Data Visualization & BI** – building dashboards in Tableau and Excel for executive decision-making  
+- **Cloud & Big Data Platforms** – AWS, GCP BigQuery, Snowflake, Hadoop  
+
+I’m passionate about **solving real-world problems with data, applying statistical rigor, and building scalable ML solutions**. Let’s connect and collaborate on impactful projects! 🚀  
+
+
+## 🔧 Languages and Tools  
+**Programming & Analytics**: Python, SQL, R, SAS  
+**Statistical Analysis & Testing**: A/B Testing, Hypothesis Testing, KPI Tracking  
+**Machine Learning & AI**: Scikit-learn, TensorFlow, Keras, Hugging Face, Transformers  
+**Data Engineering**: Apache Airflow, Informatica DQ, ETL Pipelines, Git, Jupyter  
+**Visualization & BI**: Tableau, Excel  
+**Cloud & Big Data**: AWS (S3, SageMaker), GCP BigQuery, Snowflake, Hadoop (Hive, Impala)  
+
 
 * 🌍  I'm based in Atlanta
 * ✉️  You can contact me at [srihdavuluri@gmail.com](mailto:srihdavuluri@gmail.com)
