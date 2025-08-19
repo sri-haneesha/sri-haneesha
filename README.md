@@ -1,5 +1,5 @@
 
-Sri Haneesha Davuluri: Data nerd on a mission
+💻🧩 Sri Haneesha Davuluri | Data nerd on a mission
 ==============================================================================================================================================
 
 I graduated with **Master’s in Computer Science** degree from Georgia State University. With 4+ years of experience across **fraud & healthcare analytics, business intelligence, and machine learning**, I specialize in turning complex data into actionable insights.  
