@@ -23,7 +23,7 @@ I’m passionate about solving real-world problems with data, applying statistic
 **Generative AI**: LLM Fine-tuning (LoRA, PEFT), Prompt Engineering, Text-to-Text Models  
 **Data Engineering**: Apache Airflow, Informatica DQ, Collibra, ETL Pipelines, Git, Jupyter  
 **Visualization & BI**: Tableau, Excel, Power BI, Matplotlib, Seaborn  
-**Cloud & Big Data**: AWS (S3, SageMaker), GCP BigQuery, Hadoop (Hive, Impala), PySpark  
+**Cloud & Big Data**: AWS (S3, SageMaker), GCP BigQuery, Hadoop (Hive, Impala), PySpark 
 **Languages**: C, C++, Java, HTML, CSS, PHP, JavaScript 
 **Version Control & Workflow**: GitHub, Git, JIRA, Confluence, Agile/Scrum  
 
