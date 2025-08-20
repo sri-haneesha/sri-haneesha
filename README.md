@@ -20,10 +20,12 @@ I’m passionate about solving real-world problems with data, applying statistic
 **Statistical Analysis & Testing**: A/B Testing, Hypothesis Testing, KPI Tracking, Statistical Modeling  
 **Databases**: Oracle, MS SQL Server, MySQL, MongoDB, Hive, Snowflake  
 **Machine Learning & AI**: Scikit-learn, TensorFlow, Keras, Hugging Face, Transformers (BERT) 
+
 **Generative AI**: LLM Fine-tuning (LoRA, PEFT), Prompt Engineering, Text-to-Text Models  
 **Data Engineering**: Apache Airflow, Informatica DQ, Collibra, ETL Pipelines, Git, Jupyter  
 **Visualization & BI**: Tableau, Excel, Power BI, Matplotlib, Seaborn  
 **Cloud & Big Data**: AWS (S3, SageMaker), GCP BigQuery, Hadoop (Hive, Impala), PySpark 
+
 **Languages**: C, C++, Java, HTML, CSS, PHP, JavaScript 
 **Version Control & Workflow**: GitHub, Git, JIRA, Confluence, Agile/Scrum  
 
