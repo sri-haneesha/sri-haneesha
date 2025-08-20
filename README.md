@@ -2,7 +2,7 @@
 🚨 Data Nerd Alert! 📊💥
 ==============================================================================================================================================
 
-Hi! I'm **Sri Haneesha Davuluri**. I graduated with **Master’s in Computer Science** degree from Georgia State University. With 4+ years of experience across **fraud & healthcare analytics, business intelligence, and machine learning**, I specialize in turning complex data into actionable insights.  
+Hi! I'm **Sri Haneesha Davuluri**, a **Master’s in Computer Science** graduate from Georgia State University. With 4+ years of experience across **fraud & healthcare analytics, business intelligence, and machine learning**, I specialize in turning complex data into actionable insights.  
 
 I have hands-on expertise in:  
 - **Fraud Analytics & Risk Modeling** – anomaly detection, customer segmentation, and predictive modeling and forecasting
