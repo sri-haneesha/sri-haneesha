@@ -34,4 +34,5 @@ I’m passionate about solving real-world problems with data, applying statistic
 
 ### <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/sri-haneesha"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sri-haneesha&stroke=ffffff&background=27272a&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sri-haneesha&theme=dark&hide_border=true)](https://github.com/sri-haneesha)
+
