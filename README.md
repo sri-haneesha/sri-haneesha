@@ -10,10 +10,8 @@ I have hands-on expertise in:
 - **Data Engineering & Pipelines** – ETL workflows, data quality validation, and process automation
 - **Generative AI & NLP** – LLM fine-tuning, prompt engineering, and text classification with Transformers  
 - **Machine Learning & AI** – time series forecasting, recommendation models, regression, clustering models, NLP, deep learning (CNNs, RNN, LSTM, Transformers)  
-- **Data Visualization & BI** – building dashboards in Tableau, Excel, and Python (matplot, seaborn) for executive decision-making  
+- **Data Visualization & BI** – building dashboards in Tableau, Excel, and Python (matplotlib, seaborn) for executive decision-making  
 - **Cloud & Big Data Platforms** – AWS, GCP BigQuery, Snowflake, Hadoop  
-
-I’m passionate about solving real-world problems with data, applying statistical rigor, building scalable ML+GenAI solutions, and providing actionable, data-driven recommendations to stakeholders. Let’s connect and collaborate on impactful projects! 
 
 ### Languages and Tools  
 - **Programming & Analytics**: Python, SQL, R, SAS  
@@ -25,7 +23,18 @@ I’m passionate about solving real-world problems with data, applying statistic
 - **Visualization & BI**: Tableau, Excel, Power BI, Matplotlib, Seaborn  
 - **Cloud & Big Data**: AWS (S3, SageMaker), GCP BigQuery, Hadoop (Hive, Impala), PySpark 
 - **Languages**: C, C++, Java, HTML, CSS, PHP, JavaScript 
-- **Version Control & Workflow**: GitHub, Git, JIRA, Confluence, Agile/Scrum  
+- **Version Control & Workflow**: GitHub, Git, JIRA, Confluence, Agile/Scrum
+
+### Domains
+- Finance & Banking
+- Healthcare
+- Market Research & Consumer Insights
+- Product & Business Analytics
+- Risk & Compliance
+- AI/ML & Generative AI
+- Data Engineering & Big Data
+
+I’m passionate about solving real-world problems with data, applying statistical rigor, building scalable ML+GenAI solutions, and providing actionable, data-driven recommendations to stakeholders. Let’s connect and collaborate on impactful projects! 
 
 ### Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sri-haneesha-davuluri-082811275/)  
