@@ -4,7 +4,7 @@
 
 Hi! I'm **Sri Haneesha Davuluri**, a **Master’s in Computer Science** graduate from Georgia State University. With 5+ years of experience across **fraud & healthcare analytics, business intelligence, and machine learning**, I specialize in turning complex data into actionable insights.  
 
-I have hands-on expertise in:  
+Proven track record across multiple industries and problem spaces-
 - **Fraud Analytics & Risk Modeling** – anomaly detection, customer segmentation, and predictive modeling and forecasting
 - **Statistical Methods & Experimentation** – A/B testing, hypothesis testing, and advanced statistical analysis  
 - **Data Engineering & Pipelines** – ETL workflows, data quality validation, and process automation
@@ -26,7 +26,6 @@ I have hands-on expertise in:
 - **Version Control & Workflow**: GitHub, Git, JIRA, Confluence, Agile/Scrum
 
 ### Domains of Expertise  
-Proven track record across multiple industries and problem spaces-
 - **Finance & Banking**  
 - **Healthcare**  
 - **Market Research & Consumer Insights**  
