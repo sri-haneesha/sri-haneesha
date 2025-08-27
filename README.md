@@ -25,14 +25,15 @@ I have hands-on expertise in:
 - **Languages**: C, C++, Java, HTML, CSS, PHP, JavaScript 
 - **Version Control & Workflow**: GitHub, Git, JIRA, Confluence, Agile/Scrum
 
-### Domains
-- Finance & Banking
-- Healthcare
-- Market Research & Consumer Insights
-- Product & Business Analytics
-- Risk & Compliance
-- AI/ML & Generative AI
-- Data Engineering & Big Data
+### Domains of Expertise  
+Proven track record across multiple industries and problem spaces-
+- **Finance & Banking**  
+- **Healthcare**  
+- **Market Research & Consumer Insights**  
+- **Product & Business Analytics**  
+- **Risk & Compliance**  
+- **AI/ML & Generative AI**  
+- **Data Engineering & Big Data**  
 
 I’m passionate about solving real-world problems with data, applying statistical rigor, building scalable ML+GenAI solutions, and providing actionable, data-driven recommendations to stakeholders. Let’s connect and collaborate on impactful projects! 
 
