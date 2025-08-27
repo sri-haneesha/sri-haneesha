@@ -42,4 +42,8 @@ I’m passionate about solving real-world problems with data, applying statistic
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:srihdavuluri@gmail.com)
 
 ### <b>My GitHub Stats</b> 
+[![GitHub Streak](https://streak-stats.demolab.com?user=sri-haneesha&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)  
+
+![Haneesha's GitHub stats](https://github-readme-stats.vercel.app/api?username=sri-haneesha&show_icons=true&theme=tokyonight&hide_border=true&hide=stars,prs,issues,contribs)
+
 <a href="http://www.github.com/sri-haneesha"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sri-haneesha&stroke=ffffff&background=27272a&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
