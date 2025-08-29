@@ -32,7 +32,8 @@ Proven track record across multiple industries and problem spaces-
 - **Market Research & Consumer Insights**  
 - **Product & Business Analytics**  
 - **Risk & Compliance**  
-- **AI/ML & Generative AI**  
+- **AI/ML & Generative AI**
+- **Supply Chain**  
 - **Data Engineering & Big Data**  
 
 I’m passionate about solving real-world problems with data, applying statistical rigor, building scalable ML+GenAI solutions, and providing actionable, data-driven recommendations to stakeholders. Let’s connect and collaborate on impactful projects! 
