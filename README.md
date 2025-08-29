@@ -26,7 +26,8 @@ Proven track record across multiple industries and problem spaces-
 - **Version Control & Workflow**: GitHub, Git, JIRA, Confluence, Agile/Scrum
 
 ### Domains of Expertise  
-- **Finance & Banking**  
+- **Finance & Banking**
+- **Consulting**  
 - **Healthcare**  
 - **Market Research & Consumer Insights**  
 - **Product & Business Analytics**  
